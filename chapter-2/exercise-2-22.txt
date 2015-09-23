@@ -1,0 +1,2 @@
+Our definition of a list is fundamentaly recursive.
+We need to mutate a list buffer to make the process iterative.
